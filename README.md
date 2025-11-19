@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**setatoo/setatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hey I'm Taha Toliati
+Robotics developer • Webots enthusiast • Python enjoyer  
+7+ years in robotics competitions (CoSpace, Rescue Simulation, IranOpen).  
+Currently coaching student teams and building simulation agents.
+## 🔭 What I'm working on
+- Developing controllers and strategies for **Rescue Simulation** and **Soccer Simulation** in Webots  
+- Building clean, documented Python agents  
+## 🛠 Skills
+- Languages: `Python`, basic `C++` for hardware control  
+- Robotics & Simulation: Webots, controller design, sensor modeling  
+- Algorithms: Path planning (A*, RRT), state machines, basic SLAM  
+- Tools: Git, GitHub Actions, Docker (when needed)  
+- Code quality: unit tests, CI, linting
