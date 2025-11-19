@@ -1,6 +1,6 @@
 # 👋 Hey I'm Taha Toliati
 Robotics developer • Webots enthusiast • Python enjoyer  
-7+ years in robotics competitions (CoSpace, Rescue Simulation, IranOpen).  
+7+ years in robotics competitions (IranOpen, RCAP, RoboCup).  
 Currently coaching student teams and building simulation agents.
 ## 🔭 What I'm working on
 - Developing controllers and strategies for **Rescue Simulation** and **Soccer Simulation** in Webots  
